@@ -1,0 +1,15 @@
+C:\Users\will\Desktop\projects\Desafio-SOLID\bin\Debug\net8.0\Desafio-SOLID.exe
+C:\Users\will\Desktop\projects\Desafio-SOLID\bin\Debug\net8.0\Desafio-SOLID.deps.json
+C:\Users\will\Desktop\projects\Desafio-SOLID\bin\Debug\net8.0\Desafio-SOLID.runtimeconfig.json
+C:\Users\will\Desktop\projects\Desafio-SOLID\bin\Debug\net8.0\Desafio-SOLID.dll
+C:\Users\will\Desktop\projects\Desafio-SOLID\bin\Debug\net8.0\Desafio-SOLID.pdb
+C:\Users\will\Desktop\projects\Desafio-SOLID\obj\Debug\net8.0\Desafio-SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\will\Desktop\projects\Desafio-SOLID\obj\Debug\net8.0\Desafio-SOLID.AssemblyInfoInputs.cache
+C:\Users\will\Desktop\projects\Desafio-SOLID\obj\Debug\net8.0\Desafio-SOLID.AssemblyInfo.cs
+C:\Users\will\Desktop\projects\Desafio-SOLID\obj\Debug\net8.0\Desafio-SOLID.csproj.CoreCompileInputs.cache
+C:\Users\will\Desktop\projects\Desafio-SOLID\obj\Debug\net8.0\Desafio-SOLID.sourcelink.json
+C:\Users\will\Desktop\projects\Desafio-SOLID\obj\Debug\net8.0\Desafio-SOLID.dll
+C:\Users\will\Desktop\projects\Desafio-SOLID\obj\Debug\net8.0\refint\Desafio-SOLID.dll
+C:\Users\will\Desktop\projects\Desafio-SOLID\obj\Debug\net8.0\Desafio-SOLID.pdb
+C:\Users\will\Desktop\projects\Desafio-SOLID\obj\Debug\net8.0\Desafio-SOLID.genruntimeconfig.cache
+C:\Users\will\Desktop\projects\Desafio-SOLID\obj\Debug\net8.0\ref\Desafio-SOLID.dll
